@@ -1,0 +1,50 @@
+[
+    {
+         "id":1,
+         "nombre": "Curso de crossfits",
+         "instructor": "Ignacio Urrutia",
+         "detalle": "Clases de 3 horas, 1 vez por semana",
+         "precio": 1500,
+         "img":"img/crosfits_640.jpg"
+     },
+     {
+         "id":2,
+         "nombre": "Curso de Kickboxer",
+         "instructor": "Claudia Palma",
+         "detalle": "Clases de 1 hora, 2 vez por semana",
+         "precio": 1000,
+         "img":"img/kickboxer_640.jpg"
+     },
+     {
+         "id":3,
+         "nombre": "Curso de box",
+         "instructor": "Martin Vargas",
+         "detalle": "Clases de 1 hora, 1 vez por semana",
+         "precio": 1500,
+         "img":"img/box_640.jpg"
+     },
+     {
+         "id":4,
+         "nombre": "Curso de Pilates",
+         "instructor": "Catalina Rodriguez Lopez",
+         "detalle": "Clases de 2 hora, 1 vez por semana",
+         "precio": 1000,
+         "img":"img/pilates_640.jpg"
+     },
+     {
+         "id":5,
+         "nombre": "Curso de Yoga para principiantes",
+         "instructor": "Antonia Ross",
+         "detalle": "Clases de 1 hora, 1 vez por semana",
+         "precio": 1500,
+         "img":"img/yoga_640.jpg"
+     },
+     {
+         "id":6,
+         "nombre": "Plan de entrenamiento personal",
+         "instructor": "Thiago Martinez",
+         "detalle": "Clases de 2 hora, 1 vez por semana",
+         "precio": 1000,
+         "img":"img/personalTrainer_640.jpg"
+     }
+ ]
